@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "download_url": "",
+  "xpaths": {
+    "cesi": "//*[contains(text(), 'CESI')]",
+    "demarrer": "//*[contains(text(), 'Démarrer')]",
+    "activite_suivante": "//*[contains(text(), 'Activité suivante') or contains(text(), 'activité suivante')]",
+    "retour": "//*[contains(text(), 'Retour')]",
+    "continuer": "//*[contains(text(), 'Continuer')]",
+    "lancer": "//*[contains(text(), 'Lancer') and not(contains(text(), 'Relancer'))]",
+    "relancer": "//*[contains(text(), 'Relancer')]",
+    "parties": "//*[contains(text(), 'Partie') or contains(text(), 'Part ')]",
+    "exercices": "//*[contains(text(), 'Exercices') and not(contains(text(), 'blancs'))]"
+  }
+}
