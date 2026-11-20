@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-"download_url": "https://github.com/MRousseauM/bot-globalexam-updates/releases/download/v1.0.3/BotGlobalExam.exe",
+  "version": "1.0.4",
+"download_url": "https://github.com/MRousseauM/bot-globalexam-updates/releases/download/v1.0.4/BotGlobalExam.exe",
   "xpaths": {
     "cesi": "//*[contains(text(), 'CESI')]",
     "demarrer": "//*[contains(text(), 'Démarrer')]",
